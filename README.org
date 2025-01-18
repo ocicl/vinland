@@ -1,0 +1,9 @@
+* vinland
+
+Common Lisp web framework
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/lisplizards/vinland.git |
+| commit  | 3c67e91                                        |
+| systems | foo.lisp.vinland                               |
+|---------+------------------------------------------------|
